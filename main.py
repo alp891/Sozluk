@@ -2,9 +2,11 @@ meme_dict = {
             "CRINGE": "Garip ya da utandırıcı bir şey",
             "LOL": "Komik bir şeye verilen cevap",
             "ABSÜRT": "saçma",
-            "ADİSYON": "Hesap fişi"
-
-           }
+            "ADİSYON": "Hesap fişi",
+            "Kampüs" : "Yerleşke",
+             "Spesiyal" : "Özel"
+           
+}
 
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
 
